@@ -21,7 +21,7 @@
     </head>
 
     @php
-        $color = 'yellow';
+        $color='yellow';
     @endphp
     
     <body>
